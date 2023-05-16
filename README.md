@@ -8,16 +8,16 @@ See Brad Traversy's [Tailwind CSS From Scratch](https://www.udemy.com/share/106D
 
 ## Notable Insights
 
-> ✓ **Tailwind Directives** created default styling on some of the elements
+> ✓ **Tailwind Directives** → to create default element styling
 
-> ✓ **Custom Classes** were used to consolidate and minimize repetative class usage
+> ✓ **Custom Classes** → to consolidate, and minimize repetitive class usage
 
-> ✓ **Using JavaScript** to toggle classes for Mobile Menu
+> ✓ **Responsive** → screen size media queries to opimize desktop and mobile views
 
-> ✓ **Id's** on Button Element and Div Menu Element
+> ✓ **Id's** → on Button Element and Div Menu Element
 
-> ✓ **Clicks** add/remove open class to button element
+> ✓ **Clicks** → add/remove open class to button element
 
-> ✓ **Clicks** either add/remove hidden or flex class to Menu Div
+> ✓ **Clicks** → either add/remove hidden or flex class to Menu Div
 
-> ✓ **Cleanly Responsive**
+> ✓ **Responsive**
