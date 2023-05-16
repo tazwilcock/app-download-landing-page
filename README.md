@@ -14,10 +14,3 @@ See Brad Traversy's [Tailwind CSS From Scratch](https://www.udemy.com/share/106D
 
 > ✓ **Responsive** → screen size media queries to opimize desktop and mobile views
 
-> ✓ **Id's** → on Button Element and Div Menu Element
-
-> ✓ **Clicks** → add/remove open class to button element
-
-> ✓ **Clicks** → either add/remove hidden or flex class to Menu Div
-
-> ✓ **Responsive**
