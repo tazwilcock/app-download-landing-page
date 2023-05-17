@@ -18,17 +18,20 @@ body {
    h1 {
       @apply mb-8 text-4xl font-semibold capitalize text-darkGrayishBlue md:text-5xl;
    }
+   h2 {
+      @apply mb-2 text-2xl font-bold text-darkGrayishBlue;
+   }
 }
 
 .section-container {
    @apply mx-auto mb-20 max-w-6xl p-10 text-center;
 }
 
-.main-p {
+.hero-p {
    @apply mx-auto mb-10 max-w-3xl text-2xl text-grayishBlue;
 }
 
-.snippets-p {
+.main-p {
    @apply mx-auto mb-10 max-w-3xl text-center text-xl leading-9 text-grayishBlue;
 }
 
@@ -38,4 +41,9 @@ body {
 
 .btn {
    @apply rounded-full px-8 py-4 shadow-lg duration-200 hover:opacity-70;
+}
+
+.socials:hover {
+   filter: invert(53%) sepia(68%) saturate(434%) hue-rotate(121deg)
+      brightness(101%) contrast(94%);
 }
