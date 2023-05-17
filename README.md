@@ -1,8 +1,8 @@
 # App Download Landing Page
 
-## 📐 Built With: HTML, CSS, Astro, JavaScript, and TailwindCSS
+## 📐 Built With: HTML, CSS, Astro, and TailwindCSS
 
-See the [Finished Product](https://resilient-pudding-e59a34.netlify.app/)
+See the [Finished Product](https://beamish-chebakia-27b7b5.netlify.app/)
 
 See Brad Traversy's [Tailwind CSS From Scratch](https://www.udemy.com/share/106DvQ3@IS-yDImVCMl7QkyDp-h4eeP_atFHrYFMGURTnwCFcgC-cav8LlDlRB5btX1HhOUx/) course on Udemy
 
@@ -12,5 +12,4 @@ See Brad Traversy's [Tailwind CSS From Scratch](https://www.udemy.com/share/106D
 
 > ✓ **Custom Classes** → to consolidate, and minimize repetitive class usage
 
-> ✓ **Responsive** → screen size media queries to opimize desktop and mobile views
-
+> ✓ **Responsive** → custom screen sizes to optimize desktop and mobile views
