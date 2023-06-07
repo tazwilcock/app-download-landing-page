@@ -1,6 +1,6 @@
 # App Download Landing Page
 
-## 📐 Built With: HTML, CSS, Astro, and TailwindCSS
+## 📐 Built With: Astro and Tailwind
 
 See the [Finished Product](https://beamish-chebakia-27b7b5.netlify.app/)
 
