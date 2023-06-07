@@ -8,8 +8,8 @@ See Brad Traversy's [Tailwind CSS From Scratch](https://www.udemy.com/share/106D
 
 ## Notable Insights
 
-> ✓ **Tailwind Directives** → to create default element styling
+> ✓ **Tailwind Directives** → create default element styling
 
-> ✓ **Custom Classes** → to consolidate, and minimize repetitive class usage
+> ✓ **Custom Classes** → consolidate and minimize repetitive class usage
 
-> ✓ **Responsive** → custom screen sizes to optimize desktop and mobile views
+> ✓ **Responsive** → custom screen sizes for desktop and mobile views
